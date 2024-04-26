@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Cat GIF">
+</p>
 
 
 <h3 align="center">The Process of getting Coursera-Finantial-Aid</h3>
