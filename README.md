@@ -21,7 +21,10 @@ Hello, my name is(________), and I live in Bangladesh, a developing country. I'm
 </p>
 
 
-
+<h2>Contributed By:</h2>
+<a © href="https://github.com/murshedjamilalif"><b> Murshed Jamil Alif </b></a> <a>, 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 & 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 💻</a>
+<br>
+<br>
 
 <p align="center" style="display: flex; justify-content: space-between; max-width: 800px;">
     <a href="https://www.linkedin.com/in/murshed-jamil-alif/" rel="nofollow">
